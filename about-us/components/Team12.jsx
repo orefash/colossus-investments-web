@@ -42,7 +42,7 @@ export function Team12() {
           <div className="flex flex-col items-center text-center">
             <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
-                src="/oyenugar.jpg"
+                src="/oyenugar-card.jpg"
                 alt="Portrait of Biodun Oyenuga"
                 className="size-full object-cover object-top"
               />
