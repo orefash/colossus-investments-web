@@ -16,12 +16,12 @@ export function Team12() {
           </div>
         </div>
         <div className="grid grid-cols-1 gap-x-8 gap-y-12 md:grid-cols-2 md:gap-16">
-          <div className="flex flex-col text-center">
-            <div className="relative mb-5 size-full overflow-hidden md:mb-6">
+          <div className="flex flex-col items-center text-center">
+            <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
                 src="https://images.pexels.com/photos/36053652/pexels-photo-36053652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Portrait of Oreoluwa Faseru"
-                className="aspect-[3/2] size-full object-cover"
+                className="size-full object-cover object-top"
               />
             </div>
             <div className="mb-3 md:mb-4">
@@ -39,12 +39,12 @@ export function Team12() {
               </a>
             </div>
           </div>
-          <div className="flex flex-col text-center">
-            <div className="relative mb-5 overflow-hidden md:mb-6">
+          <div className="flex flex-col items-center text-center">
+            <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
                 src="/oyenugar.jpg"
                 alt="Portrait of Biodun Oyenuga"
-                className="aspect-[3/2] w-full object-cover object-top"
+                className="size-full object-cover object-top"
               />
             </div>
             <div className="mb-3 md:mb-4">
@@ -62,12 +62,12 @@ export function Team12() {
               </a>
             </div>
           </div>
-          <div className="flex flex-col text-center">
-            <div className="relative mb-5 size-full overflow-hidden md:mb-6">
+          <div className="flex flex-col items-center text-center">
+            <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
                 src="https://images.pexels.com/photos/38453563/pexels-photo-38453563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Portrait of Olanrewaju Shakiru"
-                className="aspect-[3/2] size-full object-cover"
+                className="size-full object-cover object-top"
               />
             </div>
             <div className="mb-3 md:mb-4">
@@ -85,12 +85,12 @@ export function Team12() {
               </a>
             </div>
           </div>
-          <div className="flex flex-col text-center">
-            <div className="relative mb-5 size-full overflow-hidden md:mb-6">
+          <div className="flex flex-col items-center text-center">
+            <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
                 src="https://images.pexels.com/photos/10278390/pexels-photo-10278390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Portrait of Benjamin Eduviere"
-                className="aspect-[3/2] size-full object-cover"
+                className="size-full object-cover object-top"
               />
             </div>
             <div className="mb-3 md:mb-4">
