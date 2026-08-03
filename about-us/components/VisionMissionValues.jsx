@@ -4,19 +4,19 @@ import { FaBullseye, FaRocket, FaGem } from "react-icons/fa6";
 const values = [
   {
     label: "Integrity & Ethics",
-    text: "Zero child labor and responsible citizenship across our operations.",
+    text: "Zero child labor and responsible citizenship.",
   },
   {
     label: "Quality & Compliance",
-    text: "International standards and full traceability on every shipment.",
+    text: "International standards and full traceability.",
   },
   {
     label: "Continuous Improvement",
-    text: "Scaling processing capacity and operational efficiency.",
+    text: "Scaling processing capacity and efficiency.",
   },
   {
     label: "Partnership & Trust",
-    text: "Long-term relationships with farmers and global buyers.",
+    text: "Long-term relationships with farmers and buyers.",
   },
 ];
 
