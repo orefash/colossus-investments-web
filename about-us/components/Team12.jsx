@@ -90,7 +90,7 @@ export function Team12() {
           <div className="flex flex-col items-center text-center">
             <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
-                src="https://images.pexels.com/photos/10278390/pexels-photo-10278390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/ben1.JPG"
                 alt="Portrait of Benjamin Eduviere"
                 className="size-full object-cover object-top"
               />
@@ -99,7 +99,7 @@ export function Team12() {
               <h5 className="text-md font-semibold md:text-lg">
                 Benjamin Eduviere
               </h5>
-              <h6 className="md:text-md">Head of Development</h6>
+              <h6 className="md:text-md">Head of Sustainability</h6>
             </div>
             <div className="mt-6 grid grid-flow-col grid-cols-[max-content] gap-3.5 self-center">
               <a href="#">
