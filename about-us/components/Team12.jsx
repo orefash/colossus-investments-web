@@ -67,7 +67,7 @@ export function Team12() {
           <div className="flex flex-col items-center text-center">
             <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
-                src="https://images.pexels.com/photos/38453563/pexels-photo-38453563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/lanrey.JPG"
                 alt="Portrait of Olanrewaju Shakiru"
                 className="size-full object-cover object-top"
               />
