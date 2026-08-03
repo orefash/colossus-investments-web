@@ -44,7 +44,7 @@ export function Team12() {
               <img
                 src="/oyenugar.jpg"
                 alt="Portrait of Biodun Oyenuga"
-                className="aspect-[3/2] w-full object-cover"
+                className="aspect-[3/2] w-full object-cover object-top"
               />
             </div>
             <div className="mb-3 md:mb-4">
