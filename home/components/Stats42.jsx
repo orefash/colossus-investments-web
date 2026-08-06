@@ -17,26 +17,26 @@ const stats = [
 
 export function Stats42() {
   return (
-    <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
+    <section id="relume" className="bg-primary-700 px-[5%] py-12 md:py-16 lg:py-20">
       <div className="container">
-        <div className="grid grid-cols-1 gap-y-12 lg:grid-cols-[0.5fr_1fr] lg:items-center lg:gap-x-20">
+        <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-[0.5fr_1fr] lg:items-center lg:gap-x-16">
           <div>
-            <h2 className="text-4xl font-bold leading-[1.2] md:text-5xl lg:text-6xl">
+            <h2 className="text-3xl font-bold leading-[1.2] text-white md:text-4xl lg:text-5xl">
               A quarter century of harvest and growth
             </h2>
-            <p className="mt-8 text-base leading-relaxed text-text-secondary md:mt-10 md:text-md lg:mt-12">
+            <p className="mt-5 max-w-md text-sm leading-relaxed text-white/80 md:mt-6 md:text-base">
               Since 1999, we have moved Nigerian commodities across oceans and
               borders. The work is steady. The results speak for themselves.
             </p>
           </div>
-          <div className="grid grid-cols-1 gap-6 py-2 md:grid-cols-2 md:gap-y-12 lg:gap-x-12">
+          <div className="grid grid-cols-1 gap-4 py-1 md:grid-cols-2 md:gap-y-8 lg:gap-x-10">
             {stats.map((stat, index) => (
               <div
                 key={index}
                 className={`flex flex-col ${index === 0 ? "md:row-span-2" : ""}`}
               >
                 <p
-                  className={`mb-2 font-bold leading-[1.3] ${
+                  className={`mb-1 font-bold leading-[1.3] text-accent-400 ${
                     index === 0
                       ? "text-10xl md:text-[4rem] lg:text-[5rem]"
                       : "text-6xl md:text-7xl lg:text-8xl"
@@ -44,7 +44,7 @@ export function Stats42() {
                 >
                   {stat.value}
                 </p>
-                <h3 className="mb-2 text-md font-bold leading-[1.4] md:text-lg lg:text-xl">
+                <h3 className="text-sm font-semibold leading-[1.4] text-white/90 md:text-base lg:text-lg">
                   {stat.label}
                 </h3>
               </div>
