@@ -17,14 +17,14 @@ const stats = [
 
 export function Stats42() {
   return (
-    <section id="relume" className="bg-primary-700 px-[5%] py-12 md:py-16 lg:py-20">
+    <section id="relume" className="bg-background-secondary px-[5%] py-12 md:py-16 lg:py-20">
       <div className="container">
         <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-[0.5fr_1fr] lg:items-center lg:gap-x-16">
           <div>
-            <h2 className="text-3xl font-bold leading-[1.2] text-white md:text-4xl lg:text-5xl">
+            <h2 className="text-3xl font-bold leading-[1.2] text-primary-700 md:text-4xl lg:text-5xl">
               A quarter century of harvest and growth
             </h2>
-            <p className="mt-5 max-w-md text-sm leading-relaxed text-white/80 md:mt-6 md:text-base">
+            <p className="mt-5 max-w-md text-sm leading-relaxed text-text-secondary md:mt-6 md:text-base">
               Since 1999, we have moved Nigerian commodities across oceans and
               borders. The work is steady. The results speak for themselves.
             </p>
@@ -44,7 +44,7 @@ export function Stats42() {
                 >
                   {stat.value}
                 </p>
-                <h3 className="text-sm font-semibold leading-[1.4] text-white/90 md:text-base lg:text-lg">
+                <h3 className="text-sm font-semibold leading-[1.4] text-text-primary md:text-base lg:text-lg">
                   {stat.label}
                 </h3>
               </div>
