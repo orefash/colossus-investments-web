@@ -19,7 +19,7 @@ export function Team12() {
           <div className="flex flex-col items-center text-center">
             <div className="relative mb-5 aspect-[4/5] w-full max-w-sm overflow-hidden rounded-xl md:mb-6">
               <img
-                src="https://images.pexels.com/photos/36053652/pexels-photo-36053652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                src="/about-us/images/oe.png"
                 alt="Portrait of Oreoluwa Faseru"
                 className="size-full object-cover object-top"
               />
@@ -108,21 +108,6 @@ export function Team12() {
               <a href="#">
                 <FaXTwitter className="size-6 p-0.5" />
               </a>
-            </div>
-          </div>
-        </div>
-        <div className="mt-14 md:mt-20 lg:mt-24">
-          <div className="mx-auto flex max-w-md flex-col items-center">
-            <h4 className="mb-3 text-2xl font-bold md:mb-4 md:text-3xl md:leading-[1.3] lg:text-4xl">
-              We are hiring
-            </h4>
-            <p className="text-text-secondary md:text-md">
-              Join a team that moves with purpose and conviction.
-            </p>
-            <div className="mt-6 md:mt-8">
-              <Button title="Explore careers" variant="secondary">
-                Explore careers
-              </Button>
             </div>
           </div>
         </div>

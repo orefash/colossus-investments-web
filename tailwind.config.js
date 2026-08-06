@@ -1,0 +1,66 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,jsx,ts,tsx}",
+    "./home/**/*.{js,jsx,ts,tsx}",
+    "./about-us/**/*.{js,jsx,ts,tsx}",
+    "./what-we-do/**/*.{js,jsx,ts,tsx}",
+    "./sustainability-&-compliance/**/*.{js,jsx,ts,tsx}",
+    "./connect-&-careers/**/*.{js,jsx,ts,tsx}",
+    "./contact/**/*.{js,jsx,ts,tsx}",
+    "./legal/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ["Inter", "system-ui", "sans-serif"],
+        serif: ["Fraunces", "Georgia", "serif"],
+      },
+      colors: {
+        primary: {
+          50: "#f0f4f9",
+          100: "#d6dee8",
+          200: "#aebccb",
+          300: "#7e9bb3",
+          400: "#4f7a9c",
+          500: "#2a5d9e",
+          600: "#1a4a8c",
+          700: "#012063",
+          800: "#011a52",
+          900: "#001239",
+        },
+        accent: {
+          50: "#eafbf2",
+          100: "#cdf5df",
+          200: "#9bedc0",
+          300: "#5fe5aa",
+          400: "#29d98a",
+          500: "#1cc479",
+          600: "#14a366",
+          700: "#128052",
+        },
+        "background-primary": "#ffffff",
+        "background-secondary": "#f0f4f9",
+        "text-primary": "#1c1917",
+        "text-secondary": "#57534e",
+        "text-alternative": "#ffffff",
+        "border-primary": "#d6dee8",
+        "neutral-lightest": "#f0f4f9",
+      },
+      fontSize: {
+        "10xl": ["8rem", "1"],
+        "9xl": ["8rem", "1"],
+        "8xl": ["6rem", "1"],
+        "7xl": ["4.5rem", "1"],
+      },
+      maxWidth: {
+        lg: "32rem",
+        md: "28rem",
+        xs: "20rem",
+        "2xl": "42rem",
+      },
+    },
+  },
+  plugins: [],
+};

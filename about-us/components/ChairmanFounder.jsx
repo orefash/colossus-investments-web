@@ -14,7 +14,7 @@ export function ChairmanFounder() {
             <img
               src="/chm.jpg"
               alt="Honorable Otunba Babatola Faseru, Chairman & Founder of Colossus Investments Limited"
-              className="aspect-[4/5] w-full max-w-md rounded-2xl object-cover object-top shadow-2xl"
+              className="aspect-[4/5] w-full max-w-md rounded-2xl object-cover object-center shadow-2xl"
               style={{ border: "1px solid rgba(255, 255, 255, 0.1)", imageRendering: "auto" }}
             />
           </div>
