@@ -2,7 +2,7 @@ import React from "react";
 
 const stats = [
   {
-    value: "200K+",
+    value: "200k+",
     label: "Metric tons shipped",
   },
   {
@@ -10,14 +10,14 @@ const stats = [
     label: "Years in trade",
   },
   {
-    value: "16K+",
+    value: "16k+",
     label: "Farmers partnered",
   },
 ];
 
 export function Stats42() {
   return (
-    <section id="relume" className="bg-background-secondary px-[5%] py-12 md:py-16 lg:py-20">
+    <section id="relume" className="bg-white px-[5%] py-12 md:py-16 lg:py-20">
       <div className="container">
         <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-[0.5fr_1fr] lg:items-center lg:gap-x-16">
           <div>
