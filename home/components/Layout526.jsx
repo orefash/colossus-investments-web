@@ -23,7 +23,7 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/33653865/pexels-photo-33653865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="/raw-cashew-nuts.jpg"
                   className="size-full object-cover"
                   alt="Raw cashew nuts spread out"
                 />
@@ -157,9 +157,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/4663476/pexels-photo-4663476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="/20240927_120901%20copy.jpg"
                   className="size-full object-cover"
-                  alt="White cashew kernels in crates"
+                  alt="Cashew products stored in sacks"
                 />
               </div>
               <div className="relative z-10">
