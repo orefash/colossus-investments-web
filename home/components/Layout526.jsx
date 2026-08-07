@@ -23,7 +23,7 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="/raw-cashew-nuts.jpg"
+                  src="/raw-cashew-2.jpg"
                   className="size-full object-cover"
                   alt="Raw cashew nuts spread out"
                 />
@@ -91,7 +91,7 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/4753635/pexels-photo-4753635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="/sesame.jpg"
                   className="size-full object-cover"
                   alt="Sesame seeds in a bowl"
                 />
