@@ -53,9 +53,6 @@ export function Layout298() {
                 key={idx}
                 className="group relative flex flex-col items-center rounded-2xl border border-primary-100 bg-white p-6 text-center shadow-[0_1px_3px_rgba(16,24,40,0.04)] transition-all duration-300 hover:-translate-y-1 hover:border-accent-200 hover:shadow-[0_20px_40px_-12px_rgba(16,24,40,0.12)] md:p-7 lg:p-8"
               >
-                <span className="absolute right-5 top-5 text-sm font-bold text-primary-200 transition-colors duration-300 group-hover:text-accent-300">
-                  0{idx + 1}
-                </span>
                 <div className="mb-6 flex size-16 items-center justify-center rounded-2xl bg-primary-50 transition-colors duration-300 group-hover:bg-accent-50">
                   <Icon className="size-8 text-accent-500" />
                 </div>
