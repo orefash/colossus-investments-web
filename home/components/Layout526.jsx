@@ -23,9 +23,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/7245665/pexels-photo-7245665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="https://images.pexels.com/photos/33653865/pexels-photo-33653865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                   className="size-full object-cover"
-                  alt="Fresh cashew fruits hanging on a tree"
+                  alt="Raw cashew nuts spread out"
                 />
               </div>
               <div className="relative z-10">
@@ -56,9 +56,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/7543116/pexels-photo-7543116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="https://images.pexels.com/photos/5208267/pexels-photo-5208267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                   className="size-full object-cover"
-                  alt="Ripe cacao pods in varied colors"
+                  alt="Raw cocoa beans from Nigeria"
                 />
               </div>
               <div className="relative z-10 flex flex-1 flex-col justify-between">
@@ -124,9 +124,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/38740387/pexels-photo-38740387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="https://images.pexels.com/photos/33501330/pexels-photo-33501330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                   className="size-full object-cover"
-                  alt="Lush green soybean field under a dramatic sky"
+                  alt="Raw soya beans spread on a wooden platform"
                 />
               </div>
               <div className="relative z-10">
@@ -157,9 +157,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/10615954/pexels-photo-10615954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="https://images.pexels.com/photos/4663476/pexels-photo-4663476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                   className="size-full object-cover"
-                  alt="Ripe and unripe cashew fruits on a tree"
+                  alt="White cashew kernels in crates"
                 />
               </div>
               <div className="relative z-10">
