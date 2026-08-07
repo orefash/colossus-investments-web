@@ -157,9 +157,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="/20240927_120901%20copy.jpg"
+                  src="/raw-cashew-nuts.jpg"
                   className="size-full object-cover"
-                  alt="Cashew products stored in sacks"
+                  alt="Raw cashew nuts spread out"
                 />
               </div>
               <div className="relative z-10">
@@ -188,9 +188,9 @@ export function Layout526() {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-primary-700/60" />
                 <img
-                  src="https://images.pexels.com/photos/32956482/pexels-photo-32956482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+                  src="/20240927_120901%20copy.jpg"
                   className="size-full object-cover"
-                  alt="Elderly farmer working in a lush green field in Nigeria"
+                  alt="Cashew products stored in sacks"
                 />
               </div>
               <div className="relative z-10 flex flex-1 flex-col justify-between">
