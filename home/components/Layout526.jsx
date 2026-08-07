@@ -134,7 +134,7 @@ export function Layout526() {
                   Staple
                 </p>
                 <h3 className="mb-3 text-2xl font-bold text-white md:mb-4 md:text-3xl md:leading-[1.3] lg:text-4xl">
-                  Soya beans
+                  Clean Soya Beans
                 </h3>
                 <p className="text-white/80">
                   Feeding the world, one shipment at a time
